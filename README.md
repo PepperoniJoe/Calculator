@@ -6,7 +6,7 @@
 
 A calculator app with various color schemes. 
 
-<img src="GitHub-Images/Calculator.png" width="300">
+<img src="GitHub-Images/Calculator.png" width="700">
 
 **Technical Info:** \
 Xcode10 project written in Swift 4 for iOS\
