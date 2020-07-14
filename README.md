@@ -8,6 +8,9 @@ A calculator app with various color schemes.
 
 <img src="GitHub-Images/Calculator.png" width="700">
 
+
+<img src="GitHub-Images/Calculator.gif" width="300">
+
 **Technical Info:** \
 Xcode10 project written in Swift 4 for iOS\
 Delegate Pattern, Protocols, Extensions, Enums, User Defaults, Tuples, Outlet Collections, Functions as Parameters, Number Formatter, Hidden Status Bar, Unit Tests, UI Tests, Presenting/Dismissing of view controllers
