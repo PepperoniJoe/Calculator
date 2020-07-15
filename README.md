@@ -16,7 +16,9 @@ Xcode12 project written in Swift 5 for iOS\
 Delegate Pattern, Protocols, Extensions, Enums, User Defaults, Tuples, Outlet Collections, Functions as Parameters, Number Formatter, Hidden Status Bar, Unit Tests, UI Tests, Presenting/Dismissing of view controllers
 
 **See Also:** \
- [Make Icons Swiftly - used to generate app icon sets ](https://github.com/PepperoniJoe/Make-Icons-Swiftly)
+[Quickies - a variety of example iOS apps](https://github.com/PepperoniJoe/Quickies)\
+ [Make Icons Swiftly - used to generate app icon sets
+ ](https://github.com/PepperoniJoe/Make-Icons-Swiftly)
 
 **Author:** \
 Marcy Vernon [@MarcyVernon](https://twitter.com/MarcyVernon)
